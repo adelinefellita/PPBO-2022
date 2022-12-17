@@ -1,6 +1,6 @@
 # PPBO-2022
 
-doain saya 
-semoga semua matkul yang saya ambil di semester 3 ini lulus
-dan mendapatkan nilai yang baik
+doain saya \n
+semoga semua matkul yang saya ambil di semester 3 ini lulus \n
+dan mendapatkan nilai yang baik \n
 amin.
